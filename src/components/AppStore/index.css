@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+ul {
+  list-style-type: none;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: aliceblue;
+}
+.app {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-self: auto;
+}
+img {
+  height: 70px;
+}
+button {
+  background-color: aliceblue;
+  border: none;
+}
+.icon {
+  height: 13px;
+}

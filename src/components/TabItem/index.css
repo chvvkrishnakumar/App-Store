@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.select {
+  border-style: solid;
+  font-weight: bold;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-color: gold;
+}

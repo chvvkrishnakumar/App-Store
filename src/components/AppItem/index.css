@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.li {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+  background-color: white;
+  margin: 5px;
+  align-items: center;
+}
